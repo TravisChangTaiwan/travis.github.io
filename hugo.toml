@@ -1,0 +1,27 @@
+baseURL = "https://growingthinker.com/"
+title = "Growing Thinker"
+theme = "hugo-theme-cleanwhite"
+languageCode = "zh-tw"
+
+[params]
+  # 視覺設定
+  header_image = "img/home_b.jpg" 
+  slogan = "思緒不該是碎片的，它應該像森林一樣生長。"
+  author = "Travis"
+
+  # 側邊欄開關 (對齊作者原始碼邏輯)
+  sidebar = true
+  about_me = true
+  sidebar_avatar = "img/avatar.jpeg"
+  sidebar_about_description = "研究高效工作法與 Obsidian 的父親，為 2019 年出生的女兒建立此站。"
+  
+  # 點擊照片的跳轉連結
+  link = "/about/"
+
+  # 目錄功能
+  catalog = false
+
+[params.social]
+  email = "mcgogo145@gmail.com"
+  facebook = "https://www.facebook.com/profile.php?id=61583277065220"
+  github = "TravisChangTaiwan"
